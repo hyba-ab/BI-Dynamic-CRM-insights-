@@ -23,3 +23,4 @@ Purpose: Provides a detailed breakdown of deals won and lost by each sales agent
 
 By leveraging these insights, the company will be better equipped to drive growth, enhance operational efficiency, and maintain a competitive edge in our markets.
 
+![CRM insights Dashboard ](images/CRM dashboard.pdf)
