@@ -23,5 +23,4 @@ Purpose: Provides a detailed breakdown of deals won and lost by each sales agent
 
 By leveraging these insights, the company will be better equipped to drive growth, enhance operational efficiency, and maintain a competitive edge in our markets.
 
-https://github.com/hyba-ab/Dynamic-CRM-insights-/blob/main/CRM%20dashboard.pdf
 
